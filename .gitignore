@@ -1,0 +1,7 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+*.txt
+
+Deploy Nodejs Com Vercel e Banco de Dados gratuito NEON.mp4
